@@ -18,6 +18,9 @@ node scrape_players.js
 
 # 例: 最初の5ページだけ、1.2秒待機で取得
 node scrape_players.js --maxPages 5 --delayMs 1200
+
+# 取得済みリストに指定年 Season Totals (Pro Totals) の Points / Prize を付与
+node add_totals.js --in players_jp_pro_current.json --out players_jp_pro_current_with_totals.json --year 2025 --delayMs 1200 --concurrency 1
 ```
 
 主なオプション:
@@ -25,10 +28,12 @@ node scrape_players.js --maxPages 5 --delayMs 1200
 - `--maxPages <n>`: 取得ページ数の上限（0ページ目から開始）
 - `--delayMs <n>`: ページ間の待機時間ミリ秒（デフォルト: 1000）
 - `--startPage <n>`: 開始ページ（0始まり）
+- `add_totals.js` 用: `--in` 入力JSON, `--out` 出力JSON, `--year` (必須, 例: 2025), `--delayMs`, `--concurrency`
 
 ## 出力
 - `players_jp_pro_current.json` に生成日時・検索クエリ・選手一覧を保存。
 - 選手は `pdgaNumber` 昇順で、重複は自動排除。
+- `add_totals.js` で指定年の `points` / `prize` / `seasonYear` を各選手に付与したJSONを別名で保存。
 
 ## ログ
 - 標準エラーに進捗を出力します（例: `page=2 rows=25 added=25 totalUnique=50 hasNext=true`）。***
