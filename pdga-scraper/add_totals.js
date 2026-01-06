@@ -191,9 +191,14 @@ async function main() {
   const workers = Array.from({ length: opts.concurrency }, () => worker());
   await Promise.all(workers);
 
-  const output = { ...data, seasonYear: opts.year, players: updated };
+  const filtered = updated.filter((p) => !(p.points === null && p.prize === null));
+  if (filtered.length !== updated.length) {
+    console.error(`Filtered out ${updated.length - filtered.length} players with null points and prize`);
+  }
+
+  const output = { ...data, seasonYear: opts.year, players: filtered };
   const written = await writePlayers(outputPath, output);
-  console.error(`Done. players=${updated.length} year=${opts.year} output=${written}`);
+  console.error(`Done. players=${filtered.length} year=${opts.year} output=${written}`);
 }
 
 main().catch((err) => {
