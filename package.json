@@ -1,0 +1,14 @@
+{
+  "name": "pdga-scraper",
+  "version": "1.0.0",
+  "description": "Scrape PDGA JP pro/current players and emit JSON",
+  "main": "scrape_players.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scrape_players.js",
+    "scrape": "node scrape_players.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
