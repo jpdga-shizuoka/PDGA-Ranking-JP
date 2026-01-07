@@ -8,7 +8,7 @@
 
 * [`PDGA Player Search`](https://www.pdga.com/players) 結果ページ（ページネーションあり）から有効なデータを取得する。
 * PDGA Player Search クエリ:
-    * `https://www.pdga.com/players?&Status=Current&Country=JP&page=N`
+    * `https://www.pdga.com/players?Status=Current&Country=JP&page=N`
 * page=0 から開始し、次ページが無くなるまで自動で巡回すること
 
 <img src="./images/PDGA-Player-Search-result.png" title="PDGA Player Search" width="50%">
@@ -24,8 +24,7 @@
         "baseUrl": "https://www.pdga.com/players",
         "query": {
           "Status": "Current",
-          "Country": "JP",
-          "Gender": "All"
+          "Country": "JP"
         }
       },
       "count": 123,
@@ -115,7 +114,7 @@ pdga-scraper/
 - 入力ファイルは上書きせずに新たに作成した`players_[対象年]_with_totals.json`に保存する。
 - `players` 配列内の各要素に `points`（数値または null）、`prize`（数値または null, 単位 USD を想定、プロのみ）を追加する。
 - 既存フィールドは保持し、`pdgaNumber` 昇順は維持。
-- ただし、有効な`points`および`prize`のどちらも持たない選手は、当該年に活動が無かったとして、出力から除外する。
+- ただし、有効な`points`および`prize`のどちらも持たない選手は、当該年に活動が無かったとして、出力から除外する（`count` は除外後の件数）。
 
 ## 抽出対象
 - 対象年のプロフィール成績ページ: `https://www.pdga.com/player/[pdgaNumber]/stats/[対象年]` を取得する（例: `https://www.pdga.com/player/6075/stats/2025`）。
@@ -123,9 +122,10 @@ pdga-scraper/
 - 選手の`Class`が`Pro`の時:
     - 見出し直下の表を対象とし、`Pro Totals:` 行を探して `Points` 列と `Prize` 列の値を取得し当該選手の`points`と`prize`とする。
 - 選手の`Class`が`Am`の時:
-    - 見出し直下の表の`PROFESSIONAL`を対象とし、`Pro Totals:` 行を探して `Points` 列の値を取得する。ただし当該選手がプロ部門での活動実績がない時は、この表は表示されないので注意すること。
+    - 見出し直下の表の`PROFESSIONAL`を対象とし、`Pro Totals:` 行を探して `Points` 列の値を取得する。`Prize`は無視すること。ただし当該選手がプロ部門での活動実績がない時は、この表は表示されないので注意すること。
     - 次に`AMATEUR`の見出し直下の表から、`Am Totals`行を探して、`Points`列の値を取得する。
     - `Pro Totals`と`Am Totals`の値の合算ポイントを当該選手の`points`とする。
+    - `prize`は常に`null`とすること。
 - 列名のマッチは大小文字を無視し、コロン有無や余分な空白を許容する。
 - 値はカンマや `$` を除去して数値化（数値化できなければ null）。
 
@@ -144,8 +144,12 @@ pdga-scraper/
 - 4xx など非リトライの場合はその選手はスキップし、`points` / `prize` を null として続行。
 
 ## ログ
-- 標準エラーに進捗を出力（例: `player=12345 fetch=ok points=12 prize=345.67`）。
-- エラー時も `player=PDGA# error=...` と出し、処理は継続。
+- 標準エラーに進捗を出力する
+    - 例: `player=12345 year=2025 fetch=ok points=12 prize=345.67`
+    - 例: `player=12345 year=2025 filtered-out (points/prize both null)`
+    - エラー時も `player=PDGA# error=...` と出し、処理は継続。
+- 終了時処理結果を出力する
+    - 例: `filtered=3 kept=82`
 
 ## CLI 仕様（例）
 - `node add_totals.js players.json players_2025_with_totals.json 2025`
@@ -154,7 +158,8 @@ pdga-scraper/
 - JSON はインデント 2 で保存。
 
 ## 受け入れ基準
-- スクリプト実行で出力 JSON が生成され、全選手に `points` / `prize` キーが追加されること。
+- スクリプト実行で出力 JSON が生成され、`players` には `points` / `prize` が両方 null の選手を除外した結果が入っていること（除外件数はログに出る）。
+- 出力された全選手に `points` / `prize` キーがあること（アマ登録選手の `prize` は null で可）。
 - 指定年と一致する「`<年> Season Totals`」セクションがある選手では、Points / Prize が数値として取得されること。
-- 選手リスト（pdgaNumber, name 等）は失われない。
+- 出力に残った選手について、pdgaNumber, name 等の既存フィールドが保持されていること。
 - エラーがあっても全体が途中で停止せず、ログで確認できる。***
