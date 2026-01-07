@@ -1,0 +1,1159 @@
+{
+  "generatedAt": "2026-01-07T10:52:33.856Z",
+  "source": {
+    "baseUrl": "https://www.pdga.com/players",
+    "query": {
+      "Status": "Current",
+      "Country": "JP"
+    }
+  },
+  "count": 191,
+  "players": [
+    {
+      "pdgaNumber": 384,
+      "name": "Nobuya Kobayashi Ⓗ",
+      "class": "Pro",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 3600,
+      "name": "Kozo Shimbo Ⓗ",
+      "class": "Pro",
+      "rating": 913
+    },
+    {
+      "pdgaNumber": 3603,
+      "name": "Reiko Kinomiya",
+      "class": "Pro",
+      "rating": 851
+    },
+    {
+      "pdgaNumber": 3612,
+      "name": "Shozo Mori",
+      "class": "Pro",
+      "rating": 922
+    },
+    {
+      "pdgaNumber": 3614,
+      "name": "Hiroshi Yokota",
+      "class": "Pro",
+      "rating": 926
+    },
+    {
+      "pdgaNumber": 3621,
+      "name": "Hidekatsu Sakai",
+      "class": "Pro",
+      "rating": 928
+    },
+    {
+      "pdgaNumber": 3632,
+      "name": "Katsumi Iwado",
+      "class": "Pro",
+      "rating": 895
+    },
+    {
+      "pdgaNumber": 3633,
+      "name": "Hiroyuki Sato",
+      "class": "Am",
+      "rating": 904
+    },
+    {
+      "pdgaNumber": 3637,
+      "name": "Ryouji Kamai",
+      "class": "Pro",
+      "rating": 932
+    },
+    {
+      "pdgaNumber": 3642,
+      "name": "Kenichi Tsuji",
+      "class": "Pro",
+      "rating": 872
+    },
+    {
+      "pdgaNumber": 4510,
+      "name": "Naoko Inami",
+      "class": "Pro",
+      "rating": 851
+    },
+    {
+      "pdgaNumber": 6024,
+      "name": "Michiyasu Morooka",
+      "class": "Pro",
+      "rating": 872
+    },
+    {
+      "pdgaNumber": 6036,
+      "name": "Takao Ehara",
+      "class": "Pro",
+      "rating": 902
+    },
+    {
+      "pdgaNumber": 6047,
+      "name": "Hideaki Mutoh",
+      "class": "Am",
+      "rating": 781
+    },
+    {
+      "pdgaNumber": 6053,
+      "name": "Jotaro Hirabayashi",
+      "class": "Pro",
+      "rating": 920
+    },
+    {
+      "pdgaNumber": 6074,
+      "name": "Kazuhiro Takeda",
+      "class": "Pro",
+      "rating": 909
+    },
+    {
+      "pdgaNumber": 6075,
+      "name": "Kazuo Shirai",
+      "class": "Pro",
+      "rating": 963
+    },
+    {
+      "pdgaNumber": 6669,
+      "name": "Tooru Hamasaki",
+      "class": "Pro",
+      "rating": 978
+    },
+    {
+      "pdgaNumber": 6671,
+      "name": "Atsuhito Kawasaki",
+      "class": "Pro",
+      "rating": 956
+    },
+    {
+      "pdgaNumber": 6676,
+      "name": "Mamoru Yoshioka",
+      "class": "Pro",
+      "rating": 912
+    },
+    {
+      "pdgaNumber": 6683,
+      "name": "Hiroyoshi Hirai",
+      "class": "Am",
+      "rating": 789
+    },
+    {
+      "pdgaNumber": 6687,
+      "name": "Dana Lawton",
+      "class": "Pro",
+      "rating": 921
+    },
+    {
+      "pdgaNumber": 6696,
+      "name": "Haruo Ochiai",
+      "class": "Pro",
+      "rating": 897
+    },
+    {
+      "pdgaNumber": 8000,
+      "name": "Susumu Yamada",
+      "class": "Pro",
+      "rating": 883
+    },
+    {
+      "pdgaNumber": 8016,
+      "name": "Yoshiki Sakai",
+      "class": "Pro",
+      "rating": 907
+    },
+    {
+      "pdgaNumber": 8034,
+      "name": "Yusaku Yoshino",
+      "class": "Pro",
+      "rating": 993
+    },
+    {
+      "pdgaNumber": 8051,
+      "name": "Naoki Ichikawa",
+      "class": "Pro",
+      "rating": 766
+    },
+    {
+      "pdgaNumber": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "class": "Pro",
+      "rating": 984
+    },
+    {
+      "pdgaNumber": 8061,
+      "name": "Tomoyuki KCJ Kishi",
+      "class": "Pro",
+      "rating": 931
+    },
+    {
+      "pdgaNumber": 8070,
+      "name": "Masakazu Kobayashi",
+      "class": "Am",
+      "rating": 889
+    },
+    {
+      "pdgaNumber": 8071,
+      "name": "Jun Mochizuki",
+      "class": "Pro",
+      "rating": 894
+    },
+    {
+      "pdgaNumber": 8084,
+      "name": "Kazuhiko Koga",
+      "class": "Pro",
+      "rating": 935
+    },
+    {
+      "pdgaNumber": 8085,
+      "name": "Toshihito Nemoto",
+      "class": "Pro",
+      "rating": 923
+    },
+    {
+      "pdgaNumber": 8100,
+      "name": "Nobuhiro Kawai",
+      "class": "Pro",
+      "rating": 916
+    },
+    {
+      "pdgaNumber": 8110,
+      "name": "Noriaki Tanaka",
+      "class": "Pro",
+      "rating": 876
+    },
+    {
+      "pdgaNumber": 8111,
+      "name": "Sachiko Sato",
+      "class": "Pro",
+      "rating": 900
+    },
+    {
+      "pdgaNumber": 8115,
+      "name": "Setuko Shirai",
+      "class": "Pro",
+      "rating": 719
+    },
+    {
+      "pdgaNumber": 8130,
+      "name": "Eiji Kaneko",
+      "class": "Pro",
+      "rating": 929
+    },
+    {
+      "pdgaNumber": 8139,
+      "name": "Manabu Kajiyama",
+      "class": "Pro",
+      "rating": 1030
+    },
+    {
+      "pdgaNumber": 8140,
+      "name": "Rika Tsukamoto",
+      "class": "Pro",
+      "rating": 927
+    },
+    {
+      "pdgaNumber": 8145,
+      "name": "Tetsuya T2 Kikuchi",
+      "class": "Pro",
+      "rating": 1013
+    },
+    {
+      "pdgaNumber": 8153,
+      "name": "Masatoshi Ishihara",
+      "class": "Pro",
+      "rating": 986
+    },
+    {
+      "pdgaNumber": 8161,
+      "name": "Tatsuhiro Yoshioka",
+      "class": "Pro",
+      "rating": 943
+    },
+    {
+      "pdgaNumber": 8163,
+      "name": "Koji Takayama",
+      "class": "Pro",
+      "rating": 910
+    },
+    {
+      "pdgaNumber": 8164,
+      "name": "Akira Ohtaki",
+      "class": "Pro",
+      "rating": 909
+    },
+    {
+      "pdgaNumber": 8165,
+      "name": "Youhei Ohtaki",
+      "class": "Pro",
+      "rating": 995
+    },
+    {
+      "pdgaNumber": 8167,
+      "name": "Keiichi Mikasa",
+      "class": "Pro",
+      "rating": 891
+    },
+    {
+      "pdgaNumber": 8180,
+      "name": "Nobuyoshi Munakata",
+      "class": "Pro",
+      "rating": 828
+    },
+    {
+      "pdgaNumber": 8186,
+      "name": "Yoshihisa Oomura",
+      "class": "Pro",
+      "rating": 883
+    },
+    {
+      "pdgaNumber": 8190,
+      "name": "Kazuhiko Gomibuchi",
+      "class": "Pro",
+      "rating": 853
+    },
+    {
+      "pdgaNumber": 8193,
+      "name": "Ippei Yokota",
+      "class": "Pro",
+      "rating": 878
+    },
+    {
+      "pdgaNumber": 8194,
+      "name": "Kenjiro Yokota",
+      "class": "Pro",
+      "rating": 942
+    },
+    {
+      "pdgaNumber": 8195,
+      "name": "Kuniko Yoshioka",
+      "class": "Am",
+      "rating": 853
+    },
+    {
+      "pdgaNumber": 8205,
+      "name": "Yasushi Takakura",
+      "class": "Pro",
+      "rating": 916
+    },
+    {
+      "pdgaNumber": 8207,
+      "name": "Dai Takakura",
+      "class": "Pro",
+      "rating": 997
+    },
+    {
+      "pdgaNumber": 10812,
+      "name": "Yasuhiko Morita",
+      "class": "Am",
+      "rating": 746
+    },
+    {
+      "pdgaNumber": 40069,
+      "name": "masaki kanaya",
+      "class": "Pro",
+      "rating": 949
+    },
+    {
+      "pdgaNumber": 40070,
+      "name": "Yoshiyuki Fujii",
+      "class": "Pro",
+      "rating": 973
+    },
+    {
+      "pdgaNumber": 40072,
+      "name": "Noriyuki Okaue",
+      "class": "Pro",
+      "rating": 926
+    },
+    {
+      "pdgaNumber": 44264,
+      "name": "Tatsuya Ohshima",
+      "class": "Pro",
+      "rating": 883
+    },
+    {
+      "pdgaNumber": 59525,
+      "name": "Yusuke Takahashi",
+      "class": "Pro",
+      "rating": 929
+    },
+    {
+      "pdgaNumber": 59530,
+      "name": "Shuhei Kurobuchi",
+      "class": "Pro",
+      "rating": 936
+    },
+    {
+      "pdgaNumber": 65543,
+      "name": "Shigeko Sekiguchi",
+      "class": "Pro",
+      "rating": 882
+    },
+    {
+      "pdgaNumber": 65846,
+      "name": "Yuka Nakagawara",
+      "class": "Pro",
+      "rating": 908
+    },
+    {
+      "pdgaNumber": 65847,
+      "name": "Sou Miura",
+      "class": "Pro",
+      "rating": 982
+    },
+    {
+      "pdgaNumber": 67550,
+      "name": "Shusei Kinomiya",
+      "class": "Pro",
+      "rating": 889
+    },
+    {
+      "pdgaNumber": 74696,
+      "name": "Itaru Itoh",
+      "class": "Pro",
+      "rating": 907
+    },
+    {
+      "pdgaNumber": 74698,
+      "name": "Kenji Sasaki",
+      "class": "Pro",
+      "rating": 957
+    },
+    {
+      "pdgaNumber": 80387,
+      "name": "Yutaro Sakai",
+      "class": "Pro",
+      "rating": 1024
+    },
+    {
+      "pdgaNumber": 91046,
+      "name": "Toshimasa Fukudome",
+      "class": "Pro",
+      "rating": 925
+    },
+    {
+      "pdgaNumber": 95035,
+      "name": "Kenichi Ishikawa",
+      "class": "Am",
+      "rating": 803
+    },
+    {
+      "pdgaNumber": 96202,
+      "name": "Takashi Kiminami",
+      "class": "Pro",
+      "rating": 934
+    },
+    {
+      "pdgaNumber": 102761,
+      "name": "Mari Watanobe",
+      "class": "Pro",
+      "rating": 906
+    },
+    {
+      "pdgaNumber": 102802,
+      "name": "Kouichi Fukuta",
+      "class": "Pro",
+      "rating": 993
+    },
+    {
+      "pdgaNumber": 108547,
+      "name": "Ko Simmel",
+      "class": "Pro",
+      "rating": 1006
+    },
+    {
+      "pdgaNumber": 113402,
+      "name": "Kansuke Sakai",
+      "class": "Pro",
+      "rating": 962
+    },
+    {
+      "pdgaNumber": 119774,
+      "name": "Kazutaka Murata",
+      "class": "Pro",
+      "rating": 875
+    },
+    {
+      "pdgaNumber": 119982,
+      "name": "Hirotaka Yamamoto",
+      "class": "Pro",
+      "rating": 921
+    },
+    {
+      "pdgaNumber": 129580,
+      "name": "Minoru Kinoshita",
+      "class": "Pro",
+      "rating": 891
+    },
+    {
+      "pdgaNumber": 129583,
+      "name": "Shuichi Shinke",
+      "class": "Pro",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 129585,
+      "name": "Seiichiro Nakata",
+      "class": "Pro",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 133158,
+      "name": "Itaru Kambayashi",
+      "class": "Pro",
+      "rating": 935
+    },
+    {
+      "pdgaNumber": 142680,
+      "name": "Koji Yoshida",
+      "class": "Pro",
+      "rating": 896
+    },
+    {
+      "pdgaNumber": 145502,
+      "name": "Tony Booth",
+      "class": "Am",
+      "rating": 881
+    },
+    {
+      "pdgaNumber": 148161,
+      "name": "Jacob Canfield",
+      "class": "Pro",
+      "rating": 891
+    },
+    {
+      "pdgaNumber": 150995,
+      "name": "Kazumasa Fujiwara",
+      "class": "Pro",
+      "rating": 965
+    },
+    {
+      "pdgaNumber": 151261,
+      "name": "Yoshihiro Abe",
+      "class": "Pro",
+      "rating": 857
+    },
+    {
+      "pdgaNumber": 151864,
+      "name": "Reiko Ito",
+      "class": "Pro",
+      "rating": 822
+    },
+    {
+      "pdgaNumber": 153394,
+      "name": "Masafumi Ono",
+      "class": "Pro",
+      "rating": 959
+    },
+    {
+      "pdgaNumber": 154171,
+      "name": "Mark Hartford",
+      "class": "Pro",
+      "rating": 974
+    },
+    {
+      "pdgaNumber": 155088,
+      "name": "Hiroaki Kitahara",
+      "class": "Am",
+      "rating": 924
+    },
+    {
+      "pdgaNumber": 155089,
+      "name": "Mihoko Kitahara",
+      "class": "Am",
+      "rating": 860
+    },
+    {
+      "pdgaNumber": 156088,
+      "name": "Takeshi Shimakage",
+      "class": "Pro",
+      "rating": 960
+    },
+    {
+      "pdgaNumber": 156429,
+      "name": "Minii Iida",
+      "class": "Pro",
+      "rating": 911
+    },
+    {
+      "pdgaNumber": 161039,
+      "name": "Kohei Aranami",
+      "class": "Pro",
+      "rating": 921
+    },
+    {
+      "pdgaNumber": 161040,
+      "name": "Kenta Aranami",
+      "class": "Am",
+      "rating": 971
+    },
+    {
+      "pdgaNumber": 164263,
+      "name": "Robert Rowland",
+      "class": "Pro",
+      "rating": 949
+    },
+    {
+      "pdgaNumber": 172653,
+      "name": "Hiroto Inada",
+      "class": "Pro",
+      "rating": 945
+    },
+    {
+      "pdgaNumber": 184537,
+      "name": "Tomohiro Yokoyama",
+      "class": "Am",
+      "rating": 924
+    },
+    {
+      "pdgaNumber": 191211,
+      "name": "Stephen Underwood",
+      "class": "Am",
+      "rating": 895
+    },
+    {
+      "pdgaNumber": 193128,
+      "name": "Kenta Todama",
+      "class": "Am",
+      "rating": 957
+    },
+    {
+      "pdgaNumber": 193679,
+      "name": "Toshiki Shima",
+      "class": "Pro",
+      "rating": 934
+    },
+    {
+      "pdgaNumber": 193680,
+      "name": "Hotaka Shima",
+      "class": "Am",
+      "rating": 970
+    },
+    {
+      "pdgaNumber": 195586,
+      "name": "Duncan Hughes",
+      "class": "Pro",
+      "rating": 873
+    },
+    {
+      "pdgaNumber": 200681,
+      "name": "Makoto Kubo",
+      "class": "Am",
+      "rating": 890
+    },
+    {
+      "pdgaNumber": 212763,
+      "name": "Kou Hirose",
+      "class": "Am",
+      "rating": 919
+    },
+    {
+      "pdgaNumber": 214077,
+      "name": "Takenori Hayama",
+      "class": "Am",
+      "rating": 911
+    },
+    {
+      "pdgaNumber": 214758,
+      "name": "Taiyo Yamaguchi",
+      "class": "Am",
+      "rating": 954
+    },
+    {
+      "pdgaNumber": 215461,
+      "name": "Hiroyuki Ishihara",
+      "class": "Pro",
+      "rating": 946
+    },
+    {
+      "pdgaNumber": 223296,
+      "name": "Tomoka Aranami",
+      "class": "Am",
+      "rating": 918
+    },
+    {
+      "pdgaNumber": 223297,
+      "name": "Joji Aranami",
+      "class": "Am",
+      "rating": 769
+    },
+    {
+      "pdgaNumber": 225773,
+      "name": "Shohei Kitahara",
+      "class": "Am",
+      "rating": 903
+    },
+    {
+      "pdgaNumber": 226303,
+      "name": "Gianna Yim",
+      "class": "Am",
+      "rating": 735
+    },
+    {
+      "pdgaNumber": 226315,
+      "name": "Asahi Jitsuhiro",
+      "class": "Pro",
+      "rating": 967
+    },
+    {
+      "pdgaNumber": 230408,
+      "name": "Shigemitsu Komine",
+      "class": "Am",
+      "rating": 726
+    },
+    {
+      "pdgaNumber": 234242,
+      "name": "Hiroyuki Kinjo",
+      "class": "Pro",
+      "rating": 916
+    },
+    {
+      "pdgaNumber": 237614,
+      "name": "Hayato Miyagi",
+      "class": "Pro",
+      "rating": 880
+    },
+    {
+      "pdgaNumber": 239129,
+      "name": "Hitoshi Higa",
+      "class": "Pro",
+      "rating": 888
+    },
+    {
+      "pdgaNumber": 239244,
+      "name": "Takeharu Arai",
+      "class": "Pro",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 239872,
+      "name": "Kaede Matayoshi",
+      "class": "Pro",
+      "rating": 979
+    },
+    {
+      "pdgaNumber": 240017,
+      "name": "Tatsuya Haseba",
+      "class": "Pro",
+      "rating": 934
+    },
+    {
+      "pdgaNumber": 240380,
+      "name": "Tomoe Mieda",
+      "class": "Am",
+      "rating": 866
+    },
+    {
+      "pdgaNumber": 240381,
+      "name": "Haruna Akaishi",
+      "class": "Am",
+      "rating": 890
+    },
+    {
+      "pdgaNumber": 240382,
+      "name": "Kazunori Akaishi",
+      "class": "Am",
+      "rating": 931
+    },
+    {
+      "pdgaNumber": 241006,
+      "name": "Akihito Yamane",
+      "class": "Am",
+      "rating": 901
+    },
+    {
+      "pdgaNumber": 241396,
+      "name": "Aoi Yoshida",
+      "class": "Pro",
+      "rating": 979
+    },
+    {
+      "pdgaNumber": 241397,
+      "name": "Nobuyuki Tanaka",
+      "class": "Am",
+      "rating": 924
+    },
+    {
+      "pdgaNumber": 241398,
+      "name": "Shinobu Shiobara",
+      "class": "Am",
+      "rating": 872
+    },
+    {
+      "pdgaNumber": 241399,
+      "name": "Toshihiro Oouchi",
+      "class": "Am",
+      "rating": 874
+    },
+    {
+      "pdgaNumber": 241405,
+      "name": "Kazuki Samata",
+      "class": "Pro",
+      "rating": 922
+    },
+    {
+      "pdgaNumber": 241406,
+      "name": "Takehiko Sawada",
+      "class": "Am",
+      "rating": 891
+    },
+    {
+      "pdgaNumber": 241651,
+      "name": "Takahito Watanabe",
+      "class": "Pro",
+      "rating": 979
+    },
+    {
+      "pdgaNumber": 242593,
+      "name": "Eizo Suhara",
+      "class": "Am",
+      "rating": 901
+    },
+    {
+      "pdgaNumber": 242594,
+      "name": "Kaori Suhara",
+      "class": "Am",
+      "rating": 883
+    },
+    {
+      "pdgaNumber": 242595,
+      "name": "Kei Suhara",
+      "class": "Am",
+      "rating": 948
+    },
+    {
+      "pdgaNumber": 243755,
+      "name": "Duncan Teal",
+      "class": "Pro",
+      "rating": 827
+    },
+    {
+      "pdgaNumber": 264509,
+      "name": "Kento Nishimura",
+      "class": "Am",
+      "rating": 964
+    },
+    {
+      "pdgaNumber": 270462,
+      "name": "Taiki Itakura",
+      "class": "Am",
+      "rating": 939
+    },
+    {
+      "pdgaNumber": 272308,
+      "name": "Ryusei Shida",
+      "class": "Am",
+      "rating": 904
+    },
+    {
+      "pdgaNumber": 272618,
+      "name": "Naoki Mieda",
+      "class": "Am",
+      "rating": 932
+    },
+    {
+      "pdgaNumber": 273776,
+      "name": "Cole Headley",
+      "class": "Pro",
+      "rating": 875
+    },
+    {
+      "pdgaNumber": 274015,
+      "name": "Jeff Johnson",
+      "class": "Am",
+      "rating": 777
+    },
+    {
+      "pdgaNumber": 274030,
+      "name": "Yasuki Okita",
+      "class": "Am",
+      "rating": 917
+    },
+    {
+      "pdgaNumber": 274751,
+      "name": "Ken Shirahata",
+      "class": "Am",
+      "rating": 939
+    },
+    {
+      "pdgaNumber": 275351,
+      "name": "Mizuki Takeuchi",
+      "class": "Am",
+      "rating": 944
+    },
+    {
+      "pdgaNumber": 276247,
+      "name": "Sho Okuma",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 276385,
+      "name": "Tomoko Kitahara",
+      "class": "Pro",
+      "rating": 876
+    },
+    {
+      "pdgaNumber": 277437,
+      "name": "Yasushi Ameku",
+      "class": "Am",
+      "rating": 874
+    },
+    {
+      "pdgaNumber": 278296,
+      "name": "Haruyuki Fuse",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 287589,
+      "name": "Takao Hara",
+      "class": "Pro",
+      "rating": 975
+    },
+    {
+      "pdgaNumber": 292830,
+      "name": "Yusuke Takagi",
+      "class": "Am",
+      "rating": 851
+    },
+    {
+      "pdgaNumber": 295487,
+      "name": "Takao Ihara",
+      "class": "Am",
+      "rating": 718
+    },
+    {
+      "pdgaNumber": 297564,
+      "name": "Shinichi Inako",
+      "class": "Am",
+      "rating": 822
+    },
+    {
+      "pdgaNumber": 298086,
+      "name": "Koshiro Sugimoto",
+      "class": "Am",
+      "rating": 875
+    },
+    {
+      "pdgaNumber": 298326,
+      "name": "Toshiki Matsui",
+      "class": "Am",
+      "rating": 884
+    },
+    {
+      "pdgaNumber": 298615,
+      "name": "Tasuku Yamanaka",
+      "class": "Pro",
+      "rating": 927
+    },
+    {
+      "pdgaNumber": 299404,
+      "name": "Kiyoshige Watabe",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 301144,
+      "name": "Koutarou Watabe",
+      "class": "Am",
+      "rating": 824
+    },
+    {
+      "pdgaNumber": 304170,
+      "name": "Ryoichi Ogushi",
+      "class": "Am",
+      "rating": 935
+    },
+    {
+      "pdgaNumber": 306678,
+      "name": "Scott Thomas",
+      "class": "Pro",
+      "rating": 862
+    },
+    {
+      "pdgaNumber": 306798,
+      "name": "Fumitaka Murase",
+      "class": "Pro",
+      "rating": 952
+    },
+    {
+      "pdgaNumber": 308006,
+      "name": "Christopher Godish",
+      "class": "Am",
+      "rating": 865
+    },
+    {
+      "pdgaNumber": 311646,
+      "name": "Rino Nishimura",
+      "class": "Am",
+      "rating": 870
+    },
+    {
+      "pdgaNumber": 315070,
+      "name": "William Douthitt",
+      "class": "Am",
+      "rating": 874
+    },
+    {
+      "pdgaNumber": 315460,
+      "name": "Shin−ichi Kawaguchi",
+      "class": "Am",
+      "rating": 861
+    },
+    {
+      "pdgaNumber": 315870,
+      "name": "Steve Sager",
+      "class": "Pro",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 316110,
+      "name": "Mizuho Motonaga",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 316835,
+      "name": "KEISAKU NISHIMURA",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 316836,
+      "name": "Tomomi Nishimura",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 317401,
+      "name": "Damon Dane",
+      "class": "Pro",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 317403,
+      "name": "Jun Itakura",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 317494,
+      "name": "Tomoaki Akiho",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 317755,
+      "name": "Takeshi Ota",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 318185,
+      "name": "Mitsuru Arikawa",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 318186,
+      "name": "Takeshi Sugiyama",
+      "class": "Am",
+      "rating": 903
+    },
+    {
+      "pdgaNumber": 318189,
+      "name": "Shohei Takahashi",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 318431,
+      "name": "Toshio Ooi",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 318701,
+      "name": "Mikito Ono",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 318757,
+      "name": "Nesa Nemati",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 318784,
+      "name": "Tatsuhiko Shida",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 318885,
+      "name": "Tadashi Kato",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319034,
+      "name": "Koichi Akatsuka",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319066,
+      "name": "Ai Fukano",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319127,
+      "name": "Masato Kurobuchi",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319192,
+      "name": "Yoko Watanabe",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319193,
+      "name": "Satoshi Enokida",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319236,
+      "name": "Takeshi Saito",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319269,
+      "name": "Kosuke Nagai",
+      "class": "Pro",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319580,
+      "name": "Daisuke Rokkaku",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 319971,
+      "name": "Yushi Kitasaki",
+      "class": "Am",
+      "rating": null
+    },
+    {
+      "pdgaNumber": 320051,
+      "name": "Kazushi Tanaka",
+      "class": "Am",
+      "rating": null
+    }
+  ]
+}

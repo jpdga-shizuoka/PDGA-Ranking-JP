@@ -1,0 +1,1197 @@
+{
+  "generatedAt": "2026-01-07T10:52:33.856Z",
+  "source": {
+    "baseUrl": "https://www.pdga.com/players",
+    "query": {
+      "Status": "Current",
+      "Country": "JP"
+    }
+  },
+  "count": 148,
+  "players": [
+    {
+      "pdgaNumber": 3603,
+      "name": "Reiko Kinomiya",
+      "class": "Pro",
+      "rating": 851,
+      "points": 67.5,
+      "prize": 155
+    },
+    {
+      "pdgaNumber": 3612,
+      "name": "Shozo Mori",
+      "class": "Pro",
+      "rating": 922,
+      "points": 163,
+      "prize": 28
+    },
+    {
+      "pdgaNumber": 3614,
+      "name": "Hiroshi Yokota",
+      "class": "Pro",
+      "rating": 926,
+      "points": 82.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 3621,
+      "name": "Hidekatsu Sakai",
+      "class": "Pro",
+      "rating": 928,
+      "points": 204,
+      "prize": 226
+    },
+    {
+      "pdgaNumber": 3633,
+      "name": "Hiroyuki Sato",
+      "class": "Am",
+      "rating": 904,
+      "points": 169.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 3637,
+      "name": "Ryouji Kamai",
+      "class": "Pro",
+      "rating": 932,
+      "points": 42,
+      "prize": 19
+    },
+    {
+      "pdgaNumber": 4510,
+      "name": "Naoko Inami",
+      "class": "Pro",
+      "rating": 851,
+      "points": 21.75,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 6024,
+      "name": "Michiyasu Morooka",
+      "class": "Pro",
+      "rating": 872,
+      "points": 23,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 6036,
+      "name": "Takao Ehara",
+      "class": "Pro",
+      "rating": 902,
+      "points": 134,
+      "prize": 68
+    },
+    {
+      "pdgaNumber": 6047,
+      "name": "Hideaki Mutoh",
+      "class": "Am",
+      "rating": 781,
+      "points": 40,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 6053,
+      "name": "Jotaro Hirabayashi",
+      "class": "Pro",
+      "rating": 920,
+      "points": 96,
+      "prize": 20
+    },
+    {
+      "pdgaNumber": 6074,
+      "name": "Kazuhiro Takeda",
+      "class": "Pro",
+      "rating": 909,
+      "points": 39,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 6075,
+      "name": "Kazuo Shirai",
+      "class": "Pro",
+      "rating": 963,
+      "points": 559.5,
+      "prize": 1979
+    },
+    {
+      "pdgaNumber": 6669,
+      "name": "Tooru Hamasaki",
+      "class": "Pro",
+      "rating": 978,
+      "points": 262.5,
+      "prize": 38
+    },
+    {
+      "pdgaNumber": 6671,
+      "name": "Atsuhito Kawasaki",
+      "class": "Pro",
+      "rating": 956,
+      "points": 418.5,
+      "prize": 962
+    },
+    {
+      "pdgaNumber": 6676,
+      "name": "Mamoru Yoshioka",
+      "class": "Pro",
+      "rating": 912,
+      "points": 28.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 6683,
+      "name": "Hiroyoshi Hirai",
+      "class": "Am",
+      "rating": 789,
+      "points": 15,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 6687,
+      "name": "Dana Lawton",
+      "class": "Pro",
+      "rating": 921,
+      "points": 35,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 6696,
+      "name": "Haruo Ochiai",
+      "class": "Pro",
+      "rating": 897,
+      "points": 66,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8016,
+      "name": "Yoshiki Sakai",
+      "class": "Pro",
+      "rating": 907,
+      "points": 18,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8034,
+      "name": "Yusaku Yoshino",
+      "class": "Pro",
+      "rating": 993,
+      "points": 232.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8051,
+      "name": "Naoki Ichikawa",
+      "class": "Pro",
+      "rating": 766,
+      "points": 3,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8060,
+      "name": "Yasushi Jitsuhiro",
+      "class": "Pro",
+      "rating": 984,
+      "points": 494.5,
+      "prize": 404
+    },
+    {
+      "pdgaNumber": 8061,
+      "name": "Tomoyuki KCJ Kishi",
+      "class": "Pro",
+      "rating": 931,
+      "points": 54,
+      "prize": 124
+    },
+    {
+      "pdgaNumber": 8071,
+      "name": "Jun Mochizuki",
+      "class": "Pro",
+      "rating": 894,
+      "points": 37.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8100,
+      "name": "Nobuhiro Kawai",
+      "class": "Pro",
+      "rating": 916,
+      "points": 279,
+      "prize": 244
+    },
+    {
+      "pdgaNumber": 8110,
+      "name": "Noriaki Tanaka",
+      "class": "Pro",
+      "rating": 876,
+      "points": 63,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8111,
+      "name": "Sachiko Sato",
+      "class": "Pro",
+      "rating": 900,
+      "points": 15.75,
+      "prize": 94
+    },
+    {
+      "pdgaNumber": 8130,
+      "name": "Eiji Kaneko",
+      "class": "Pro",
+      "rating": 929,
+      "points": 370.5,
+      "prize": 394
+    },
+    {
+      "pdgaNumber": 8139,
+      "name": "Manabu Kajiyama",
+      "class": "Pro",
+      "rating": 1030,
+      "points": 1875,
+      "prize": 4763
+    },
+    {
+      "pdgaNumber": 8140,
+      "name": "Rika Tsukamoto",
+      "class": "Pro",
+      "rating": 927,
+      "points": 247.5,
+      "prize": 571
+    },
+    {
+      "pdgaNumber": 8145,
+      "name": "Tetsuya T2 Kikuchi",
+      "class": "Pro",
+      "rating": 1013,
+      "points": 655,
+      "prize": 2619
+    },
+    {
+      "pdgaNumber": 8153,
+      "name": "Masatoshi Ishihara",
+      "class": "Pro",
+      "rating": 986,
+      "points": 1026,
+      "prize": 578
+    },
+    {
+      "pdgaNumber": 8161,
+      "name": "Tatsuhiro Yoshioka",
+      "class": "Pro",
+      "rating": 943,
+      "points": 148.5,
+      "prize": 343
+    },
+    {
+      "pdgaNumber": 8163,
+      "name": "Koji Takayama",
+      "class": "Pro",
+      "rating": 910,
+      "points": 120,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8164,
+      "name": "Akira Ohtaki",
+      "class": "Pro",
+      "rating": 909,
+      "points": 172.5,
+      "prize": 97
+    },
+    {
+      "pdgaNumber": 8167,
+      "name": "Keiichi Mikasa",
+      "class": "Pro",
+      "rating": 891,
+      "points": 145,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8186,
+      "name": "Yoshihisa Oomura",
+      "class": "Pro",
+      "rating": 883,
+      "points": 12,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8190,
+      "name": "Kazuhiko Gomibuchi",
+      "class": "Pro",
+      "rating": 853,
+      "points": 16,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8193,
+      "name": "Ippei Yokota",
+      "class": "Pro",
+      "rating": 878,
+      "points": 66,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8194,
+      "name": "Kenjiro Yokota",
+      "class": "Pro",
+      "rating": 942,
+      "points": 420,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 8195,
+      "name": "Kuniko Yoshioka",
+      "class": "Am",
+      "rating": 853,
+      "points": 80.25,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 8205,
+      "name": "Yasushi Takakura",
+      "class": "Pro",
+      "rating": 916,
+      "points": 24,
+      "prize": 47
+    },
+    {
+      "pdgaNumber": 8207,
+      "name": "Dai Takakura",
+      "class": "Pro",
+      "rating": 997,
+      "points": 750,
+      "prize": 471
+    },
+    {
+      "pdgaNumber": 10812,
+      "name": "Yasuhiko Morita",
+      "class": "Am",
+      "rating": 746,
+      "points": 6,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 40069,
+      "name": "masaki kanaya",
+      "class": "Pro",
+      "rating": 949,
+      "points": 96,
+      "prize": 67
+    },
+    {
+      "pdgaNumber": 40070,
+      "name": "Yoshiyuki Fujii",
+      "class": "Pro",
+      "rating": 973,
+      "points": 546,
+      "prize": 1997
+    },
+    {
+      "pdgaNumber": 40072,
+      "name": "Noriyuki Okaue",
+      "class": "Pro",
+      "rating": 926,
+      "points": 133.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 44264,
+      "name": "Tatsuya Ohshima",
+      "class": "Pro",
+      "rating": 883,
+      "points": 97.5,
+      "prize": 28
+    },
+    {
+      "pdgaNumber": 59525,
+      "name": "Yusuke Takahashi",
+      "class": "Pro",
+      "rating": 929,
+      "points": 37.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 59530,
+      "name": "Shuhei Kurobuchi",
+      "class": "Pro",
+      "rating": 936,
+      "points": 437.5,
+      "prize": 366
+    },
+    {
+      "pdgaNumber": 65543,
+      "name": "Shigeko Sekiguchi",
+      "class": "Pro",
+      "rating": 882,
+      "points": 84,
+      "prize": 487
+    },
+    {
+      "pdgaNumber": 65846,
+      "name": "Yuka Nakagawara",
+      "class": "Pro",
+      "rating": 908,
+      "points": 135,
+      "prize": 147
+    },
+    {
+      "pdgaNumber": 65847,
+      "name": "Sou Miura",
+      "class": "Pro",
+      "rating": 982,
+      "points": 1719,
+      "prize": 1058
+    },
+    {
+      "pdgaNumber": 67550,
+      "name": "Shusei Kinomiya",
+      "class": "Pro",
+      "rating": 889,
+      "points": 212.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 74696,
+      "name": "Itaru Itoh",
+      "class": "Pro",
+      "rating": 907,
+      "points": 159,
+      "prize": 20
+    },
+    {
+      "pdgaNumber": 74698,
+      "name": "Kenji Sasaki",
+      "class": "Pro",
+      "rating": 957,
+      "points": 127.5,
+      "prize": 24
+    },
+    {
+      "pdgaNumber": 80387,
+      "name": "Yutaro Sakai",
+      "class": "Pro",
+      "rating": 1024,
+      "points": 1777.5,
+      "prize": 1640
+    },
+    {
+      "pdgaNumber": 91046,
+      "name": "Toshimasa Fukudome",
+      "class": "Pro",
+      "rating": 925,
+      "points": 174,
+      "prize": 150
+    },
+    {
+      "pdgaNumber": 102761,
+      "name": "Mari Watanobe",
+      "class": "Pro",
+      "rating": 906,
+      "points": 595,
+      "prize": 1155
+    },
+    {
+      "pdgaNumber": 102802,
+      "name": "Kouichi Fukuta",
+      "class": "Pro",
+      "rating": 993,
+      "points": 1020,
+      "prize": 633
+    },
+    {
+      "pdgaNumber": 108547,
+      "name": "Ko Simmel",
+      "class": "Pro",
+      "rating": 1006,
+      "points": 1447.5,
+      "prize": 1445
+    },
+    {
+      "pdgaNumber": 113402,
+      "name": "Kansuke Sakai",
+      "class": "Pro",
+      "rating": 962,
+      "points": 532.5,
+      "prize": 98
+    },
+    {
+      "pdgaNumber": 119982,
+      "name": "Hirotaka Yamamoto",
+      "class": "Pro",
+      "rating": 921,
+      "points": 243,
+      "prize": 237
+    },
+    {
+      "pdgaNumber": 129580,
+      "name": "Minoru Kinoshita",
+      "class": "Pro",
+      "rating": 891,
+      "points": 88.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 133158,
+      "name": "Itaru Kambayashi",
+      "class": "Pro",
+      "rating": 935,
+      "points": 180,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 142680,
+      "name": "Koji Yoshida",
+      "class": "Pro",
+      "rating": 896,
+      "points": 16.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 148161,
+      "name": "Jacob Canfield",
+      "class": "Pro",
+      "rating": 891,
+      "points": 135,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 150995,
+      "name": "Kazumasa Fujiwara",
+      "class": "Pro",
+      "rating": 965,
+      "points": 822.5,
+      "prize": 204
+    },
+    {
+      "pdgaNumber": 151261,
+      "name": "Yoshihiro Abe",
+      "class": "Pro",
+      "rating": 857,
+      "points": 27,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 151864,
+      "name": "Reiko Ito",
+      "class": "Pro",
+      "rating": 822,
+      "points": 78.75,
+      "prize": 121
+    },
+    {
+      "pdgaNumber": 153394,
+      "name": "Masafumi Ono",
+      "class": "Pro",
+      "rating": 959,
+      "points": 300,
+      "prize": 269
+    },
+    {
+      "pdgaNumber": 154171,
+      "name": "Mark Hartford",
+      "class": "Pro",
+      "rating": 974,
+      "points": 419,
+      "prize": 781
+    },
+    {
+      "pdgaNumber": 155088,
+      "name": "Hiroaki Kitahara",
+      "class": "Am",
+      "rating": 924,
+      "points": 687,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 155089,
+      "name": "Mihoko Kitahara",
+      "class": "Am",
+      "rating": 860,
+      "points": 252,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 156088,
+      "name": "Takeshi Shimakage",
+      "class": "Pro",
+      "rating": 960,
+      "points": 470,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 156429,
+      "name": "Minii Iida",
+      "class": "Pro",
+      "rating": 911,
+      "points": 105,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 161039,
+      "name": "Kohei Aranami",
+      "class": "Pro",
+      "rating": 921,
+      "points": 313.5,
+      "prize": 204
+    },
+    {
+      "pdgaNumber": 161040,
+      "name": "Kenta Aranami",
+      "class": "Am",
+      "rating": 971,
+      "points": 1409.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 164263,
+      "name": "Robert Rowland",
+      "class": "Pro",
+      "rating": 949,
+      "points": 162,
+      "prize": 169
+    },
+    {
+      "pdgaNumber": 172653,
+      "name": "Hiroto Inada",
+      "class": "Pro",
+      "rating": 945,
+      "points": 505,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 184537,
+      "name": "Tomohiro Yokoyama",
+      "class": "Am",
+      "rating": 924,
+      "points": 642.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 191211,
+      "name": "Stephen Underwood",
+      "class": "Am",
+      "rating": 895,
+      "points": 85,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 193128,
+      "name": "Kenta Todama",
+      "class": "Am",
+      "rating": 957,
+      "points": 248,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 193679,
+      "name": "Toshiki Shima",
+      "class": "Pro",
+      "rating": 934,
+      "points": 324,
+      "prize": 109
+    },
+    {
+      "pdgaNumber": 193680,
+      "name": "Hotaka Shima",
+      "class": "Am",
+      "rating": 970,
+      "points": 525,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 195586,
+      "name": "Duncan Hughes",
+      "class": "Pro",
+      "rating": 873,
+      "points": 120,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 200681,
+      "name": "Makoto Kubo",
+      "class": "Am",
+      "rating": 890,
+      "points": 400.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 212763,
+      "name": "Kou Hirose",
+      "class": "Am",
+      "rating": 919,
+      "points": 510,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 214077,
+      "name": "Takenori Hayama",
+      "class": "Am",
+      "rating": 911,
+      "points": 615,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 214758,
+      "name": "Taiyo Yamaguchi",
+      "class": "Am",
+      "rating": 954,
+      "points": 825,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 215461,
+      "name": "Hiroyuki Ishihara",
+      "class": "Pro",
+      "rating": 946,
+      "points": 54,
+      "prize": 101
+    },
+    {
+      "pdgaNumber": 223296,
+      "name": "Tomoka Aranami",
+      "class": "Am",
+      "rating": 918,
+      "points": 470.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 223297,
+      "name": "Joji Aranami",
+      "class": "Am",
+      "rating": 769,
+      "points": 69.75,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 225773,
+      "name": "Shohei Kitahara",
+      "class": "Am",
+      "rating": 903,
+      "points": 652.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 226303,
+      "name": "Gianna Yim",
+      "class": "Am",
+      "rating": 735,
+      "points": 10.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 226315,
+      "name": "Asahi Jitsuhiro",
+      "class": "Pro",
+      "rating": 967,
+      "points": 120,
+      "prize": 56
+    },
+    {
+      "pdgaNumber": 230408,
+      "name": "Shigemitsu Komine",
+      "class": "Am",
+      "rating": 726,
+      "points": 3,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 234242,
+      "name": "Hiroyuki Kinjo",
+      "class": "Pro",
+      "rating": 916,
+      "points": 210,
+      "prize": 121
+    },
+    {
+      "pdgaNumber": 237614,
+      "name": "Hayato Miyagi",
+      "class": "Pro",
+      "rating": 880,
+      "points": 48,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 239129,
+      "name": "Hitoshi Higa",
+      "class": "Pro",
+      "rating": 888,
+      "points": 138,
+      "prize": 28
+    },
+    {
+      "pdgaNumber": 239872,
+      "name": "Kaede Matayoshi",
+      "class": "Pro",
+      "rating": 979,
+      "points": 1042.5,
+      "prize": 486
+    },
+    {
+      "pdgaNumber": 240017,
+      "name": "Tatsuya Haseba",
+      "class": "Pro",
+      "rating": 934,
+      "points": 305,
+      "prize": 19
+    },
+    {
+      "pdgaNumber": 240380,
+      "name": "Tomoe Mieda",
+      "class": "Am",
+      "rating": 866,
+      "points": 208.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 240381,
+      "name": "Haruna Akaishi",
+      "class": "Am",
+      "rating": 890,
+      "points": 121.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 240382,
+      "name": "Kazunori Akaishi",
+      "class": "Am",
+      "rating": 931,
+      "points": 360,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 241006,
+      "name": "Akihito Yamane",
+      "class": "Am",
+      "rating": 901,
+      "points": 114,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 241396,
+      "name": "Aoi Yoshida",
+      "class": "Pro",
+      "rating": 979,
+      "points": 322.5,
+      "prize": 128
+    },
+    {
+      "pdgaNumber": 241397,
+      "name": "Nobuyuki Tanaka",
+      "class": "Am",
+      "rating": 924,
+      "points": 708,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 241399,
+      "name": "Toshihiro Oouchi",
+      "class": "Am",
+      "rating": 874,
+      "points": 37.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 241405,
+      "name": "Kazuki Samata",
+      "class": "Pro",
+      "rating": 922,
+      "points": 277.5,
+      "prize": 1324
+    },
+    {
+      "pdgaNumber": 241406,
+      "name": "Takehiko Sawada",
+      "class": "Am",
+      "rating": 891,
+      "points": 261,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 241651,
+      "name": "Takahito Watanabe",
+      "class": "Pro",
+      "rating": 979,
+      "points": 27,
+      "prize": 67
+    },
+    {
+      "pdgaNumber": 242593,
+      "name": "Eizo Suhara",
+      "class": "Am",
+      "rating": 901,
+      "points": 391.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 242594,
+      "name": "Kaori Suhara",
+      "class": "Am",
+      "rating": 883,
+      "points": 161,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 242595,
+      "name": "Kei Suhara",
+      "class": "Am",
+      "rating": 948,
+      "points": 695,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 243755,
+      "name": "Duncan Teal",
+      "class": "Pro",
+      "rating": 827,
+      "points": 30,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 264509,
+      "name": "Kento Nishimura",
+      "class": "Am",
+      "rating": 964,
+      "points": 795,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 270462,
+      "name": "Taiki Itakura",
+      "class": "Am",
+      "rating": 939,
+      "points": 534,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 272308,
+      "name": "Ryusei Shida",
+      "class": "Am",
+      "rating": 904,
+      "points": 129,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 272618,
+      "name": "Naoki Mieda",
+      "class": "Am",
+      "rating": 932,
+      "points": 712.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 273776,
+      "name": "Cole Headley",
+      "class": "Pro",
+      "rating": 875,
+      "points": 142.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 274015,
+      "name": "Jeff Johnson",
+      "class": "Am",
+      "rating": 777,
+      "points": 50.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 274030,
+      "name": "Yasuki Okita",
+      "class": "Am",
+      "rating": 917,
+      "points": 525,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 274751,
+      "name": "Ken Shirahata",
+      "class": "Am",
+      "rating": 939,
+      "points": 187.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 275351,
+      "name": "Mizuki Takeuchi",
+      "class": "Am",
+      "rating": 944,
+      "points": 277.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 276385,
+      "name": "Tomoko Kitahara",
+      "class": "Pro",
+      "rating": 876,
+      "points": 108,
+      "prize": 134
+    },
+    {
+      "pdgaNumber": 277437,
+      "name": "Yasushi Ameku",
+      "class": "Am",
+      "rating": 874,
+      "points": 237.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 287589,
+      "name": "Takao Hara",
+      "class": "Pro",
+      "rating": 975,
+      "points": 255,
+      "prize": 635
+    },
+    {
+      "pdgaNumber": 292830,
+      "name": "Yusuke Takagi",
+      "class": "Am",
+      "rating": 851,
+      "points": 193.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 295487,
+      "name": "Takao Ihara",
+      "class": "Am",
+      "rating": 718,
+      "points": 6,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 297564,
+      "name": "Shinichi Inako",
+      "class": "Am",
+      "rating": 822,
+      "points": 135,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 298086,
+      "name": "Koshiro Sugimoto",
+      "class": "Am",
+      "rating": 875,
+      "points": 69,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 298326,
+      "name": "Toshiki Matsui",
+      "class": "Am",
+      "rating": 884,
+      "points": 337.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 298615,
+      "name": "Tasuku Yamanaka",
+      "class": "Pro",
+      "rating": 927,
+      "points": 318,
+      "prize": 105
+    },
+    {
+      "pdgaNumber": 299404,
+      "name": "Kiyoshige Watabe",
+      "class": "Am",
+      "rating": null,
+      "points": 75,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 301144,
+      "name": "Koutarou Watabe",
+      "class": "Am",
+      "rating": 824,
+      "points": 90,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 304170,
+      "name": "Ryoichi Ogushi",
+      "class": "Am",
+      "rating": 935,
+      "points": 412.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 306798,
+      "name": "Fumitaka Murase",
+      "class": "Pro",
+      "rating": 952,
+      "points": 9,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 308006,
+      "name": "Christopher Godish",
+      "class": "Am",
+      "rating": 865,
+      "points": 225,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 311646,
+      "name": "Rino Nishimura",
+      "class": "Am",
+      "rating": 870,
+      "points": 67.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 315070,
+      "name": "William Douthitt",
+      "class": "Am",
+      "rating": 874,
+      "points": 265.5,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 315460,
+      "name": "Shin−ichi Kawaguchi",
+      "class": "Am",
+      "rating": 861,
+      "points": 45,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 315870,
+      "name": "Steve Sager",
+      "class": "Pro",
+      "rating": null,
+      "points": 4.5,
+      "prize": 0
+    },
+    {
+      "pdgaNumber": 316110,
+      "name": "Mizuho Motonaga",
+      "class": "Am",
+      "rating": null,
+      "points": 15,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 316835,
+      "name": "KEISAKU NISHIMURA",
+      "class": "Am",
+      "rating": null,
+      "points": 78,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 316836,
+      "name": "Tomomi Nishimura",
+      "class": "Am",
+      "rating": null,
+      "points": 9,
+      "prize": null
+    },
+    {
+      "pdgaNumber": 318186,
+      "name": "Takeshi Sugiyama",
+      "class": "Am",
+      "rating": 903,
+      "points": 15,
+      "prize": null
+    }
+  ]
+}
