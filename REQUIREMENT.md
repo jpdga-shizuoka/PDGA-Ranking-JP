@@ -163,3 +163,48 @@ pdga-scraper/
 - 指定年と一致する「`<年> Season Totals`」セクションがある選手では、Points / Prize が数値として取得されること。
 - 出力に残った選手について、pdgaNumber, name 等の既存フィールドが保持されていること。
 - エラーがあっても全体が途中で停止せず、ログで確認できる。***
+
+---
+
+# プロ/アマ別のランキング表の作成
+
+## 目的
+
+前段で作成した `points`および`prize`を伴った成績表からプロアマ別のランキング表を作成する。
+
+## 入力ファイル
+
+- 前段で作成した `points`および`prize`を伴った成績表(e.g. `players_2025_with_totals.json`)を指定
+
+## ランキング表の種別と出力ファイル
+
+以下の3種類のランキング表を作成する。
+なお対象年は、入力ファイル名から抽出すること。
+
+- プロ部門: `points`順ランキング表および`prize`順ランキング表の2種
+    1. `ranking_[対象年]_pro_points.txt`
+        - Class=Proの選手を抽出し、`points`で降順にソートして、順位 名前 `points`を出力する。
+        - `points`が`null`または`0`の時、当該選手は出力から除外すること
+    1. `ranking_[対象年]_pro_prize.txt`
+        - Class=Proの選手を抽出し、`prize`で降順にソートして、順位 名前 `prize`を出力する。
+        - `prize`が`null`または`0`の時、当該選手は出力から除外すること
+- アマ部門: `points`順ランキング表の1種
+    1. `ranking_[対象年]_am_points.txt`
+        - Class=Amの選手を抽出し、`points`で降順にソートして、順位 名前 `points`を出力する。
+        - `points`が`null`または`0`の時、当該選手は出力から除外すること
+
+## 出力データ形式
+
+- テキストファイル
+- 一行に一選手
+- 順位を昇順にソート(1位が先頭になること)
+- '順位 名前 [points|prize]'の通り各項目をスペースで区切って最後に改行文字をつけた形式で出力
+
+## CLI形式
+
+- `node ranking.js [inputfile]`
+    - e.g. `ranking players_2025_with_totals.json`
+    - 上記例の場合以下のファイルが作成される:
+      1. `ranking_2025_pro_points.txt`
+      1. `ranking_2025_pro_prize.txt`
+      1. `ranking_2025_am_points.txt`
