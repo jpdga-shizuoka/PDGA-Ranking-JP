@@ -6,14 +6,11 @@ import { load as loadHtml } from 'cheerio';
 
 const DEFAULT_QUERY = {
   Status: 'Current',
-  Class: 'P',
-  Country: 'JP',
-  Country_1: '3',
-  Gender: 'All'
+  Country: 'JP'
 };
 
 const DEFAULTS = {
-  out: 'players_jp_pro_current.json',
+  out: 'players.json',
   maxPages: Infinity,
   delayMs: 1000,
   startPage: 0,
@@ -121,9 +118,7 @@ function extractFromTable($, table) {
     name: headerIndex('name'),
     pdga: headerIndex('pdga #'),
     rating: headerIndex('rating'),
-    city: headerIndex('city'),
-    stateProv: headerIndex('state/prov'),
-    country: headerIndex('country')
+    class: headerIndex('class')
   };
 
   const rows = [];
@@ -142,11 +137,8 @@ function extractFromTable($, table) {
       const player = {
         pdgaNumber,
         name: (nameCell.text() || '').trim(),
-        profileUrl: profileUrl || `https://www.pdga.com/player/${pdgaNumber}`,
-        rating: idx.rating >= 0 ? parseCellNumber($(cells[idx.rating]).text()) : null,
-        city: idx.city >= 0 ? cleanText($(cells[idx.city]).text()) : null,
-        stateProv: idx.stateProv >= 0 ? cleanText($(cells[idx.stateProv]).text()) : null,
-        country: idx.country >= 0 ? cleanText($(cells[idx.country]).text()) : null
+        class: idx.class >= 0 ? cleanText($(cells[idx.class]).text()) : null,
+        rating: idx.rating >= 0 ? parseCellNumber($(cells[idx.rating]).text()) : null
       };
 
       rows.push(player);
@@ -156,7 +148,9 @@ function extractFromTable($, table) {
 }
 
 function parseCellNumber(text) {
-  const num = Number(String(text).trim());
+  const trimmed = String(text).trim();
+  if (trimmed === '') return null;
+  const num = Number(trimmed);
   return Number.isFinite(num) ? num : null;
 }
 
@@ -192,11 +186,8 @@ function extractPlayers(html, page) {
       fallback.set(pdgaNumber, {
         pdgaNumber,
         name: cleanText($(link).text()) || `Player ${pdgaNumber}`,
-        profileUrl,
-        rating: null,
-        city: null,
-        stateProv: null,
-        country: null
+        class: null,
+        rating: null
       });
     });
     rows = Array.from(fallback.values());
