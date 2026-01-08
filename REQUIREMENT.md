@@ -170,7 +170,7 @@ pdga-scraper/
 
 ## 目的
 
-前段で作成した `points`および`prize`を伴った成績表からプロアマ別のランキング表を作成する。
+前段で作成した `points`および`prize`を伴った成績表から種々のランキング表を作成する。
 
 ## 入力ファイル
 
@@ -192,6 +192,10 @@ pdga-scraper/
     1. `ranking_[対象年]_am_points.txt`
         - Class=Amの選手を抽出し、`points`で降順にソートして、順位 名前 `points`を出力する。
         - `points`が`null`または`0`の時、当該選手は出力から除外すること
+- 全部門共通: `points`順ランキング表の1種
+    1. `ranking_[対象年]_all_points.txt`
+        - `Class`の属性に関係なく、`points`で降順にソートして、順位 名前 `points`を出力する。
+        - `points`が`null`または`0`の時、当該選手は出力から除外すること
 
 ## 出力データ形式
 
@@ -208,3 +212,4 @@ pdga-scraper/
       1. `ranking_2025_pro_points.txt`
       1. `ranking_2025_pro_prize.txt`
       1. `ranking_2025_am_points.txt`
+      1. `ranking_2025_all_points.txt`

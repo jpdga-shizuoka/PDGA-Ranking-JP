@@ -58,6 +58,7 @@ async function main() {
 
   const pro = players.filter((p) => normalizeClass(p.class) === 'pro');
   const am = players.filter((p) => normalizeClass(p.class) === 'am');
+  const all = players.slice();
 
   const proPoints = pro
     .filter((p) => p.points !== null && p.points !== undefined && p.points !== 0)
@@ -68,11 +69,15 @@ async function main() {
   const amPoints = am
     .filter((p) => p.points !== null && p.points !== undefined && p.points !== 0)
     .sort(sortByNumberDesc('points'));
+  const allPoints = all
+    .filter((p) => p.points !== null && p.points !== undefined && p.points !== 0)
+    .sort(sortByNumberDesc('points'));
 
   const outputs = [
     { key: 'points', list: proPoints, file: `ranking_${year}_pro_points.txt` },
     { key: 'prize', list: proPrize, file: `ranking_${year}_pro_prize.txt` },
-    { key: 'points', list: amPoints, file: `ranking_${year}_am_points.txt` }
+    { key: 'points', list: amPoints, file: `ranking_${year}_am_points.txt` },
+    { key: 'points', list: allPoints, file: `ranking_${year}_all_points.txt` }
   ];
 
   for (const { key, list, file } of outputs) {
